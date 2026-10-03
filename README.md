@@ -2,7 +2,7 @@
 
 > **Módulo: Fundamentos de Frontend.** Este repositorio es el proyecto del módulo.
 
-Este repositorio trae **todo lo necesario** para repasar lo visto en clase y hacer el proyecto final. No tienes que buscar nada más: aquí están las guías, el código de ejemplo, el enunciado y las instrucciones paso a paso.
+Este repositorio trae **todo lo necesario para Andres ** para repasar lo visto en clase y hacer el proyecto final. No tienes que buscar nada más: aquí están las guías, el código de ejemplo, el enunciado y las instrucciones paso a paso.
 
 > **¿Primera vez aquí?** Sigue la sección [Empieza en 10 minutos](#empieza-en-10-minutos) y listo.
 
