@@ -63,7 +63,7 @@ if (existsSync(tsPkg)) {
 }
 
 /* 6. Estructura del repositorio */
-const carpetas = ["01-clase-html-css", "02-clase-js-ts", "03-pokedex-pasos", "04-proyecto"];
+const carpetas = ["01-clase-html-css-basico", "02-clase-js-ts", "03-pokedex-pasos", "04-proyecto"];
 const faltan = carpetas.filter((c) => !existsSync(join(root, c)));
 if (faltan.length === 0) anotar("ok", "Carpetas del curso", "completas");
 else anotar("error", "Faltan carpetas del repositorio", faltan.join(", "), "Vuelve a clonar el repositorio completo");

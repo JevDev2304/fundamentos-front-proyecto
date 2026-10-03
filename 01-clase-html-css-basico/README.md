@@ -4,7 +4,7 @@
 
 **Cómo abrirla:**
 
-- Con el servidor del curso: `npm run servir` (desde la raíz del repositorio) y entra a <http://localhost:5500/01-clase-html-css/clase-html-css.html>
+- Con el servidor del curso: `npm run servir` (desde la raíz del repositorio) y entra a <http://localhost:5500/01-clase-html-css-basico/clase-html-css.html>
 - O con doble clic sobre [`clase-html-css.html`](clase-html-css.html).
 
 **Qué contiene:** cómo funciona la web, estructura de HTML, etiquetas, enlaces e imágenes, listas, tablas, formularios, selectores y cascada de CSS, modelo de caja, Flexbox, responsive y un proyecto final (tarjeta de perfil).
@@ -21,7 +21,7 @@ Necesitas internet solo para las fuentes y algunas imágenes de ejemplo.
 
 En [`laboratorio-css/`](laboratorio-css/) hay una página de ejemplo que muestra lo que se puede lograr con CSS: gradientes, animaciones, transiciones y efectos de luz.
 
-- Ábrela con `npm run servir` en <http://localhost:5500/01-clase-html-css/laboratorio-css/index.html> o con doble clic sobre `laboratorio-css/index.html`.
+- Ábrela con `npm run servir` en <http://localhost:5500/01-clase-html-css-basico/laboratorio-css/index.html> o con doble clic sobre `laboratorio-css/index.html`.
 - Todo el estilo está en [`andres.css`](laboratorio-css/andres.css) y la estructura en [`index.html`](laboratorio-css/index.html).
 
 **Cómo sacarle provecho**

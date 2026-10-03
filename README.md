@@ -4,7 +4,7 @@
 
 Este repositorio trae **todo lo necesario para Andres ** para repasar lo visto en clase y hacer el proyecto final. No tienes que buscar nada más: aquí están las guías, el código de ejemplo, el enunciado y las instrucciones paso a paso.
 
-> **¿Primera vez aquí?** Sigue la sección [Empieza en 10 minutos](#empieza-en-10-minutos) y listo.
+> **¿Primera vez aquí? (rama-nueva-2)** Sigue la sección [Empieza en 10 minutos](#empieza-en-10-minutos) y listo.
 
 ---
 
@@ -19,8 +19,8 @@ Este repositorio trae **todo lo necesario para Andres ** para repasar lo visto e
 
 | Carpeta | Qué es | Para qué la usas |
 |---|---|---|
-| [`00-repaso-rapido/`](00-repaso-rapido/repaso-rapido.html) | **Repaso rápido** de toda la teoría del módulo, en una sola página | Antes de empezar y como chuleta durante el proyecto |
-| [`01-clase-html-css/`](01-clase-html-css/) | Guía interactiva de HTML y CSS, más el laboratorio «CSS en movimiento» (`andres.css`) | Repasar la base de la web y ver qué se logra con CSS |
+| [`00-repaso-rapidisimo/`](00-repaso-rapidisimo/repaso-rapido.html) | **Repaso rápido** de toda la teoría del módulo, en una sola página | Antes de empezar y como chuleta durante el proyecto |
+| [`01-clase-html-css-basico/`](01-clase-html-css-basico/) | Guía interactiva de HTML y CSS, más el laboratorio «CSS en movimiento» (`andres.css`) | Repasar la base de la web y ver qué se logra con CSS |
 | [`02-clase-js-ts/`](02-clase-js-ts/) | Guía interactiva de JavaScript, `async/await`, `fetch` y TypeScript | Repasar la clase de JavaScript y TypeScript |
 | [`03-pokedex-pasos/`](03-pokedex-pasos/) | La Pokédex en 7 pasos, con el código comentado | Ver cómo se construye una app con una API, paso a paso |
 | [`04-proyecto/`](04-proyecto/) | **Tu proyecto**: enunciado, wireframe y la carpeta `dragonball/` donde trabajas | El ejercicio |
@@ -101,8 +101,8 @@ Entra a <http://localhost:5500>. Verás el menú con todo el curso. Para detener
 | # | Qué hacer | Dónde | Tiempo orientativo |
 |---|---|---|---|
 | 1 | Verificar tu ambiente | `npm run verificar` | 10 min |
-| 2 | Leer el repaso rápido de toda la teoría | [`00-repaso-rapido/repaso-rapido.html`](00-repaso-rapido/repaso-rapido.html) | 20 min |
-| 3 | Repasar HTML y CSS y explorar el laboratorio de CSS | `01-clase-html-css/` | 45 min |
+| 2 | Leer el repaso rápido de toda la teoría | [`00-repaso-rapidisimo/repaso-rapido.html`](00-repaso-rapidisimo/repaso-rapido.html) | 20 min |
+| 3 | Repasar HTML y CSS y explorar el laboratorio de CSS | `01-clase-html-css-basico/` | 45 min |
 | 4 | Repasar JS, `async/await` y TypeScript | `02-clase-js-ts/` (ejecuta y modifica los ejemplos) | 1 h |
 | 5 | Recorrer la Pokédex paso a paso | `03-pokedex-pasos/index.html` | 1 h |
 | 6 | Aprender Git básico (ramas, commit, push). **Tema nuevo, no visto en clase**; se retoma en Angular | [video intro de 2:30](https://www.youtube.com/watch?v=DinilgacaWs) → [`docs/GIT-BASICO.md`](docs/GIT-BASICO.md) → [curso completo](https://www.youtube.com/watch?v=T3roQrB_Jko&list=PLJ7sTTLrIA6klMtrvcpGXYkBFoUP3rqwo) (opcional) | 45 min |
