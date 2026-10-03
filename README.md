@@ -32,7 +32,7 @@ Este repositorio trae **todo lo necesario para Andres ** para repasar lo visto e
 
 ---
 
-## Empieza en 10 minutos
+## Empieza en :)  1000000000000000000000000 :)  minutos
 
 ### Opción A (recomendada): deja que Claude Code te guíe
 
